@@ -1,0 +1,96 @@
+I"‚<p><img src="./assets/images/header.png" alt="Header" /></p>
+
+<h4 id="home"><a href="./index.html">Home</a></h4>
+
+<h1 id="research">Research</h1>
+
+<p>T cells exert complex functions during a controlled immune response. Activation of naive (resting) T cells and the function of effector (activated) T cells require the formation of different immune synapses (IS) with antigen-presenting cells (APC) or target cells, respectively. For a proper T-cell response, redistribution of cytoskeletal structures (i.e. actin cytoskeleton, microtubules) and T-cell polarization of organelles (i.e. microtubule organization center, Golgi apparatus, endoplasmic reticulum, mitochondria, endosomes, lysosomes and other vesicles) during IS formation are required. For instance, the actin cytoskeleton is crucial for IS generation, the endoplasmic reticulum has to move to the plasma membrane to activate ORAI calcium channels during IS formation, mitochondria have to form an intimate contact with the plasma membrane at the IS to control calcium signals at the IS, and perforin-containing vesicles have to be reoriented to the IS to kill target cells. IS formation thus involves the collective intracellular transport of several interacting cellular compartments along dynamically changing cytoskeleton structures.</p>
+
+<p><strong>Our aims are:</strong></p>
+
+<ol>
+  <li>Determine the principles of transport, polarization and self-organization of vesicles in CD4+ and CD8+ T cells.</li>
+  <li>Analyze the dynamics of organelle (mitochondria, endoplasmic reticulum) transport and polarization pattern and their influence on spatiotemporal Ca2+ dynamics at the immune synapse.</li>
+  <li>Analyze the polarization dynamics and function of cytoskeletal structures during migration and activation in primary human T cells. In collaboration with the theoretical projects on cytoskeleton self-organization and intracellular transport we aim at understanding mechanisms, functions and the interdependence of cytoskeleton rearrangement and organelle transport and polarization.</li>
+  <li>In collaboration with clinics, elucidate the molecular mechanisms to regulate killer cell function in cancer patients, more particularly in tumor microenvironment.</li>
+</ol>
+
+<h3 id="project-1-sfb-1027">Project 1: SFB 1027</h3>
+
+<h1 id="team">Team</h1>
+
+<h2 id="group-leader">Group leader:</h2>
+
+<p><img src="https://www.uniklinikum-saarland.de/uploads/pics/B_Qu.jpg" alt="BinQu" /></p>
+
+<h4 id="dr-bin-qu">Dr. Bin Qu</h4>
+
+<h2 id="postdocs">Postdocs:</h2>
+
+<ul>
+  <li>Dr. Renping Zhao</li>
+</ul>
+
+<h4 id="phd-students">PhD students:</h4>
+
+<ul>
+  <li>Dr. Renping Zhao</li>
+</ul>
+
+<h1 id="publication">Publication</h1>
+
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Bin+Qu+Homburg&amp;sort=pubdate&amp;size=50">Full list here</a></p>
+
+<h4 id="header-4">Header 4</h4>
+
+<ul>
+  <li>This is an unordered list following a header.</li>
+  <li>This is an unordered list following a header.</li>
+  <li>This is an unordered list following a header.</li>
+</ul>
+
+<h5 id="header-5">Header 5</h5>
+
+<ol>
+  <li>This is an ordered list following a header.</li>
+  <li>This is an ordered list following a header.</li>
+  <li>This is an ordered list following a header.</li>
+</ol>
+
+<h3 id="theres-a-horizontal-rule-below-this">Thereâ€™s a horizontal rule below this.</h3>
+
+<hr />
+
+<h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
+
+<ul>
+  <li>Item foo</li>
+  <li>Item bar</li>
+  <li>Item baz</li>
+  <li>Item zip</li>
+</ul>
+
+<ol>
+  <li>Item one</li>
+  <li>Item two</li>
+  <li>Item three</li>
+  <li>Item four</li>
+</ol>
+
+<h3 id="small-image">Small image</h3>
+
+<h3 id="definition-lists-can-be-used-with-html-syntax">Definition lists can be used with HTML syntax.</h3>
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+:ET
