@@ -2,40 +2,33 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![Header](./assets/images/header.png)
 
-[Link to another page](./another-page.html).
+#### [Home](./index.html) 
 
-There should be whitespace between paragraphs.
+# Research
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+We do research on...
+### Project 1: SFB 1027
+### Project 2: ABC
 
-# Header 1
+# Team
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Group leader:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+![BinQu](https://www.uniklinikum-saarland.de/uploads/pics/B_Qu.jpg)
+#### Dr. Bin Qu
 
-### Header 3
+## Postdocs:
+Dr. Renping Zhao
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### PhD students:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+
+# Publication
+
+[Full list here](https://pubmed.ncbi.nlm.nih.gov/?term=Bin+Qu+Homburg&sort=pubdate&size=50)
 
 #### Header 4
 
@@ -49,14 +42,6 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
@@ -69,36 +54,16 @@ end
 *   Item baz
 *   Item zip
 
-### And an ordered list:
 
 1.  Item one
 1.  Item two
 1.  Item three
 1.  Item four
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
@@ -114,10 +79,4 @@ end
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
